@@ -1,5 +1,3 @@
-import functools
-
 school = []
 passing_days = 256
 total = len(school)
